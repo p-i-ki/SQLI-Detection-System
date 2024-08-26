@@ -22,6 +22,5 @@ sqli_detection_system/
 ├── .env                     # Environment variables
 ├── .gitignore               # Files and directories to be ignored by Git
 ├── README.md                # Project documentation
-└── requirements.txt         # Python dependencies
 
 ## this project is not design for handling https requests. It is a mini project and needs furthur improvements.
